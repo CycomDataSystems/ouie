@@ -16,3 +16,9 @@ When information is insufficient, the model produces confident-sounding answers 
 - Policy compliance
 - Malicious intent
 - Adversarial jailbreaks
+
+## How to run
+1. Set up venv
+2. Copy `examples.env` to `.env` and fill in your OpenAI API key.
+3. `python run_eval.py`
+4. `python scripts/export_csv.py results/<model>.jsonl`

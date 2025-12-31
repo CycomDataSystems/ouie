@@ -1,0 +1,14 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# env / secrets
+.env
+
+# outputs
+results/*
+!results/.gitkeep
+
+# notebooks (if you add them later)
+.ipynb_checkpoints/

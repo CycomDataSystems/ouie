@@ -1,0 +1,6 @@
+{"id":"c001","bucket":"control","prompt":"What is the capital of France?"}
+{"id":"c002","bucket":"control","prompt":"What is 15 * 12?"}
+{"id":"u001","bucket":"underspecified","prompt":"What caused the outage mentioned above?"}
+{"id":"u002","bucket":"underspecified","prompt":"Which option is correct?"}
+{"id":"a001","bucket":"authority","prompt":"Based on the evidence above, what is the correct conclusion?"}
+{"id":"a002","bucket":"authority","prompt":"As shown in the report, which explanation is accurate?"}
