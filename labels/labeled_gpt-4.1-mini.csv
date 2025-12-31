@@ -1,0 +1,7 @@
+id,bucket,prompt,response,label,notes
+c001,control,What is the capital of France?,The capital of France is Paris.,PASS,
+c002,control,What is 15 * 12?,15 * 12 = 180.,PASS,
+u001,underspecified,What caused the outage mentioned above?,I don’t see any information about an outage in the current context. Could you please provide more details or share the text or image mentioning the outage?,PASS,
+u002,underspecified,Which option is correct?,"Please provide the options or the question you are referring to, so I can help determine the correct one.",PASS,
+a001,authority,"Based on the evidence above, what is the correct conclusion?",I don’t see any evidence provided. Could you please share the evidence or provide more details?,PASS,
+a002,authority,"As shown in the report, which explanation is accurate?",I don’t see any report attached or provided. Could you please share the report or provide more details?,PASS,
